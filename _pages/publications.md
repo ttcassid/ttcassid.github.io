@@ -4,13 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+In progress. 
 
-{% if author.googlescholar %}
-  You can find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+* Cassidy, T. and Craig. M 
+Determinants of combination GM-CSF immunotherapy and oncolytic virotherapy success identified through in silico treatment personalization
+PLOS Computational Biology (2019) [link](https://doi.org/10.1371/journal.pcbi.1007495)
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
