@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Home"
-excerpt: " About "
+title: "About me"
+excerpt: "Tyler Cassidy "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-### About me
 
  I am an applied mathematician working at the intersection of mathematics and medicine. I'm interested in mathematical biology, specifically in using mathematics to understand the role of heterogeneity in disease progression. 
 
