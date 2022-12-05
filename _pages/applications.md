@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-The application process for scholarships, fellowships, and academic positions can be frustratingly opaque. I share some of my application materials (with corresponding outcomes) in the hopes that it may demystify the application process. 
+The application process for scholarships, fellowships, and academic positions can be frustratingly opaque. I share some of my application materials (with corresponding outcomes) in the hopes that it may help to demystify the application process (while being a single sample representative of my extreme good fortune and privilege).
 
 ### Fellowships during graduate school
 
@@ -41,7 +41,7 @@ In 2020, I applied to 6 tenure track positions, primarily at research institutio
 
 The application for my industrial position only required a cover letter [link](https://ttcassid.github.io/files/Application_Materials/Pfizer_Cover_Letter.pdf)
 
-In 2021, I applied to 19 tenure track positions, 10 at primary undergraduate institutions and 9 at research institutions, starting late in the application cycle. I had 5 interviews and received 2 offers. I only interviewed at Mathematical Biology specific positions. I withdrew from 3 searches to take my current position.
+In 2021, I applied to 19 tenure track positions, 10 at primary undergraduate institutions and 9 at research institutions, starting late in the application cycle. I had 5 interviews and received 2 offers. I withdrew from 3 interviews to take my current position. I only interviewed at Mathematical Biology specific positions. 
 
 2021 Research statement: [link](https://ttcassid.github.io/files/Application_Materials/ResearchStatement_2021_V1.pdf)
 
