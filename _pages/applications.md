@@ -30,7 +30,7 @@ NSERC postdoctoral fellowship (2019): This application was successful (ranked 3r
 
 ----
 
-  
+<!---  
 ### Academic and Industrial Job Search
 
 In 2020, I applied to 6 tenure track positions, primarily at research institutions in Canada, and had 1 Skype interview for an academic position. I withdrew from that search to take an industrial research position.
@@ -46,6 +46,8 @@ In 2021, I applied to 19 tenure track positions, 10 at primary undergraduate ins
 2021 Research statement: [link](https://ttcassid.github.io/files/Application_Materials/ResearchStatement_2021_V1.pdf)
 
 2021 Teaching statement: [link](https://ttcassid.github.io/files/Application_Materials/TeachingStatement_2021.pdf)
+
+--->
 
 ----
 
