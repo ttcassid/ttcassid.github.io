@@ -26,6 +26,9 @@ NSERC postdoctoral fellowship (2019): This application was successful (ranked 3r
 
   
 ### Academic and Industrial Job Search
+
+
+
 ----
 
   

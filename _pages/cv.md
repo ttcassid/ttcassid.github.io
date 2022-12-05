@@ -6,4 +6,4 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-In progress
+Tyler Cassidy CV [link](https://ttcassid.github.io/files/CV/Tyler_Cassidy_CV.pdf)
