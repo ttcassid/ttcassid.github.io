@@ -37,7 +37,7 @@ In 2020, I applied to 6 tenure track positions, primarily at research institutio
 
 2020 Research statement: [link](https://ttcassid.github.io/files/Application_Materials/ResearchStatement_2020.pdf)
 
-2020 Teaching statement: [link](https://ttcassid.github.io/files/Application_Materials/ResearchStatement_2020.pdf)
+2020 Teaching statement: [link](https://ttcassid.github.io/files/Application_Materials/TeachingStatement_2020.pdf)
 
 The application for my industrial position only required a cover letter [link](https://ttcassid.github.io/files/Application_Materials/Pfizer_Cover_Letter.pdf)
 
@@ -45,7 +45,7 @@ In 2021, I applied to 19 tenure track positions, 10 at primary undergraduate ins
 
 2021 Research statement: [link](https://ttcassid.github.io/files/Application_Materials/ResearchStatement_2021_V1.pdf)
 
-2021 Teaching statement: [link](https://ttcassid.github.io/files/Application_Materials/ResearchStatement_2021.pdf)
+2021 Teaching statement: [link](https://ttcassid.github.io/files/Application_Materials/TeachingStatement_2021.pdf)
 
 ----
 
