@@ -19,5 +19,7 @@ redirect_from:
 ---
 ###  Recent news
 
+- January 2023: Attending the Computational Modelling of Cancer Biology and Treatments 5-day workshop at the Banff International Research Station
+
  - November 2022: Started position at the University of Leeds 
 
