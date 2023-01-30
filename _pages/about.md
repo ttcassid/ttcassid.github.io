@@ -18,6 +18,7 @@ redirect_from:
 
 ---
 ###  Recent news
+- March 2023: Presenting at the LMS Mathematics of Delayed Phenomena Workshop at Northumbria University
 
 - January 2023: Attending the Computational Modelling of Cancer Biology and Treatments 5-day workshop at the Banff International Research Station
 
