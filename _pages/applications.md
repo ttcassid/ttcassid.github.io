@@ -13,7 +13,7 @@ The application process for scholarships, fellowships, and academic positions ca
 
 ### Fellowships during graduate school
 
-NSERC CGS-M (2015): This application was unsuccessful at the department level [link](https://ttcassid.github.io/files/Application_Materials/PGSD_Application_2016.pdf)
+NSERC CGS-M (2015): This application was unsuccessful at the department level [link](https://ttcassid.github.io/files/Application_Materials/NSERC_CGSM_Research_Statement.pdf) 
 
 NSERC PGS-D (2016): This application was unsuccessful at the department level [link](https://ttcassid.github.io/files/Application_Materials/PGSD_Application_2016.pdf)
 
