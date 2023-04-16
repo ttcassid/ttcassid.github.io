@@ -24,7 +24,7 @@ NSERC PGS-D (2017): This application was successful [link](https://ttcassid.gith
   
 ### Postdoctoral fellowships 
 
-Near the end of my PhD, I applied for ~20 postdoctoral positions, including 8 Junior Research Fellowships at Oxford and Cambridge and an industrial postdoctoral position. I had 6 interviews of varying levels of formality and received 6 offers. Most applications asked for on a CV and cover letter. The cover letter I submitted for my position at LANL is here [link](https://ttcassid.github.io/files/Application_Materials/LosAlamosStatementOfInterest.pdf).
+Near the end of my PhD, I applied for ~20 postdoctoral positions, including 8 Junior Research Fellowships at Oxford and Cambridge and an industrial postdoctoral position. I had 6 interviews of varying levels of formality and received 6 offers. Most applications asked for only a CV and cover letter. The cover letter I submitted for my position at LANL is here [link](https://ttcassid.github.io/files/Application_Materials/LosAlamosStatementOfInterest.pdf).
 
 Applicants could only apply once for the NSERC postdoctoral fellowship when I finished my PhD (in 2019). I decided to apply in 2020 with a year of postdoctoral experience at LANL.
 
