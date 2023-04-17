@@ -6,13 +6,14 @@ author_profile: true
 ---
 ### Preprints
 
-* Cassidy, T., A continuation technique for maximum likelihood estimators in biological models, arXiv: 2303.09194
+* Cassidy, T., A continuation technique for maximum likelihood estimators in biological models, arXiv: 2303.09194, [link](https://arxiv.org/abs/2303.09194)
+
 ---
 ### Publications
 
 Some of these papers are unfortunately behind paywalls. Please contact me and I will be happy to send you the published PDF.
 
-* Cassidy, T., Gillich, P.*, Humphries, A.R., and van Dorp, C.H., Numerical methods and hypoexponential approximations for Gamma distributed delay differential equations, 87, 6, 1043–1089 (2022), _The IMA Journal of Applied Mathematics_. 
+* Cassidy, T., Gillich, P.*, Humphries, A.R., and van Dorp, C.H., Numerical methods and hypoexponential approximations for Gamma distributed delay differential equations, 87, 6, 1043–1089 (2022), _The IMA Journal of Applied Mathematics_, [link](https://academic.oup.com/imamat/article-abstract/87/6/1043/6794093)
 
 * Sanche, S., Cassidy, T., Chu, P., Perelson, A.S., Ribeiro, R.M., and Ke, R., A simple model of COVID-19 explains disease severity and the effect of treatments, _Scientific Reports_, 12, 14210 (2022), DOI: 10.1038/s41598-022-18244-2. [link](https://www.nature.com/articles/s41598-022-18244-2)
 
