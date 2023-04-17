@@ -18,6 +18,8 @@ redirect_from:
 
 ---
 ###  Recent news
+- May 2023: Presenting at British Society for Immunology meeting
+
 - May 2023: Presenting at closing meeting for the Quantitative T-cell Immunology and Immunotherapy Network
 
 - April 2023: Presenting at Grinnell College Mathematics and Statistics Seminar
