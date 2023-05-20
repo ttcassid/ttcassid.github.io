@@ -21,12 +21,3 @@ redirect_from:
 - May 2023: Presenting at British Society for Immunology meeting
 
 - May 2023: Presenting at closing meeting for the Quantitative T-cell Immunology and Immunotherapy Network
-
-- April 2023: Presenting at Grinnell College Mathematics and Statistics Seminar
-
-- March 2023: Presenting at the LMS Mathematics of Delayed Phenomena Workshop at Northumbria University
-
-- January 2023: Attending the Computational Modelling of Cancer Biology and Treatments 5-day workshop at the Banff International Research Station
-
- - November 2022: Started position at the University of Leeds 
-
