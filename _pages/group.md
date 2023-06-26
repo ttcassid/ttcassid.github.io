@@ -11,7 +11,7 @@ I am searching for prospective research students and postdocs. If you're interes
 Potential postdocs should contact me with sufficient advance notice to prepare funding applications. 
 
  ----
- ### Past supervision
+ ###  Past students
 
 * Rachel Sousa, Graduate student intern in quantitative systems pharmacology, Pfizer-Boulder Research Unit. Next position: PhD student at UC Irvine. 
 
