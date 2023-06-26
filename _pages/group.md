@@ -3,8 +3,6 @@ layout: archive
 title: "Group"
 permalink: /group/
 author_profile: true
-redirect_from:
-  
 ---
 I am searching for prospective research students and postdocs. If you're interested in working together, please feel free to get in touch via email. Please include a brief description of your background, research interests, and CV. 
 
@@ -12,6 +10,8 @@ Potential postdocs should contact me with sufficient advance notice to prepare f
 
  ---
  ### Past supervision
+
+I don't understand why this doesn't want to work
 
 * Rachel Sousa, Graduate student intern in quantitative systems pharmacology, Pfizer-Boulder Research Unit. Next position: PhD student at UC Irvine. 
 
