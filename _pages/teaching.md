@@ -22,4 +22,6 @@ The Being Human In STEM cirriculum has particularly impacted my thinking [link](
 ---
 ### Teaching at the University of Leeds
 
+- Winter 2024:  MATH2391 Nonlinear Differential Equations
+
 - Winter 2023: MATH 1005 Core Mathematics (Ordinary Differential Equations submodule)
