@@ -9,7 +9,8 @@ redirect_from:
 ---
 I am searching for prospective research students and postdocs. If you're interested in working together, please feel free to get in touch via email. Please include a few sentence description of your background, research interests, and CV. Mathematical biology is an transdisciplinary field and I am very happy to hear from kind and curious students from a variety of quantitative backgrounds.
 
-I am very happy to support potential PhD students postdocs in applying for personal fellowships. Please get in touch at least a month before application deadlines so we have sufficient advance notice to prepare funding applications. 
+I am very happy to support potential PhD students and postdocs in applying for personal fellowships. Please get in touch at least a month before application deadlines so we have sufficient advance notice to prepare funding applications. 
+
 
 ### Past Supervision 
 
