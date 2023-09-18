@@ -18,6 +18,4 @@ redirect_from:
 
 ---
 ###  Recent news
-- May 2023: Presenting at British Society for Immunology meeting
-
-- May 2023: Presenting at closing meeting for the Quantitative T-cell Immunology and Immunotherapy Network
+- August 2023: Visiting the Theoretical Biology and Biophysics group at Los Alamos National Laboratory
