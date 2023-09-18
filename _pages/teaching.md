@@ -15,14 +15,12 @@ Axiom 3. Mathematics is a powerful, malleable tool that can be shaped and used d
 
 Axiom 4. Every student deserves to be treated with dignity and respect.
 
-These statements should sound self-evident, but remain a pressing call to action.
-
-The [Being Human In STEM cirriculum](https://www.beinghumaninstem.com/readings.html)
+These statements should sound self-evident, but remain a pressing call to action. The [Being Human In STEM cirriculum](https://www.beinghumaninstem.com/readings.html)
  has particularly impacted my thinking
 
 ---
 ### Teaching at the University of Leeds
 
-- Winter 2024: MATH2391 Nonlinear Differential Equations
+- Winter 2024: MATH 2391 Nonlinear Differential Equations
 
 - Winter 2023: MATH 1005 Core Mathematics (Ordinary Differential Equations submodule)
