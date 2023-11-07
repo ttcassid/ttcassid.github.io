@@ -11,7 +11,11 @@ I am searching for prospective research students and postdocs. If you're interes
 
 I am very happy to support potential PhD students and postdocs in applying for personal fellowships. Please get in touch at least a month before application deadlines so we have sufficient advance notice to prepare funding applications. 
 
-Possible PhD projects through the University of Leeds can be found here: [1](https://phd.leeds.ac.uk/project/1711-mechanistic-modelling-of-treatment-resistance-in-cancer)
+Possible PhD projects through the University of Leeds can be found here: 
+
+[Mechanistic modelling of resistance in solid tumours](https://phd.leeds.ac.uk/project/1711-mechanistic-modelling-of-treatment-resistance-in-cancer)
+
+
 
 ### Past Supervision 
 
