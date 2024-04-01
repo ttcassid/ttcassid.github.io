@@ -18,4 +18,6 @@ redirect_from:
 
 ---
 ###  Recent news
-- August 2023: Visiting the Theoretical Biology and Biophysics group at Los Alamos National Laboratory
+- July-September 2024: Visiting the Theoretical Biology and Biophysics group at Los Alamos National Laboratory
+
+- September 2024: Attending MATRIX workshop on [Parameter Identifiability in Mathematical Biology](https://www.matrix-inst.org.au/events/parameter-identifiability-in-mathematical-biology/) and visiting the Queensland University of Technology. 

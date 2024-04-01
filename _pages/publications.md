@@ -12,6 +12,8 @@ author_profile: true
 
 Some of these papers are unfortunately behind paywalls. Please contact me and I will be happy to send you the published PDF.
 
+* Cassidy, T., Stephenson, K.E., Barouch, D.H., Perelson, A.S., Modeling resistance to the broadly neutralizing antibody PGT121 in people living with HIV-1, _PLoS Computational Biology_, 20, 3 (2024). [link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011518) 
+
 * Cassidy, T., A continuation technique for maximum likelihood estimators in biological models,  _Bulletin of Mathematical Biology_, 85, 90 (2023). [link](https://link.springer.com/article/10.1007/s11538-023-01200-0)
 
 * Cassidy, T., Gillich, P.*, Humphries, A.R., and van Dorp, C.H., Numerical methods and hypoexponential approximations for Gamma distributed delay differential equations, 87, 6, 1043–1089 (2022), _The IMA Journal of Applied Mathematics_, [link](https://academic.oup.com/imamat/article-abstract/87/6/1043/6794093)
