@@ -6,7 +6,7 @@ author_profile: true
 ---
 ### Preprints
 
-* Villa, C., Maini, P.K., Browning, A.P., Jenner, A.L., Hamis, S., \textbf{Cassidy, T.}, Reducing phenotype-structured PDE models of cancer evolution to systems of ODEs: a generalised moment dynamics approach, arXiv:2406.01505, [link](https://arxiv.org/abs/2406.01505)
+* Villa, C., Maini, P.K., Browning, A.P., Jenner, A.L., Hamis, S.,  Cassidy, T., Reducing phenotype-structured PDE models of cancer evolution to systems of ODEs: a generalised moment dynamics approach, _arXiv_:2406.01505, [link](https://arxiv.org/abs/2406.01505)
 
 * Iyaniwura$^{+}$, A., Cassidy$^{+}$, T., Ribeiro, R.M., Perelson, A.S.,  A multiscale model of the action of a capsid assembly modulator for the treatment of chronic hepatitis B, _biorXiv_: 2024.07.16.603658 [link](https://www.biorxiv.org/content/10.1101/2024.07.16.603658v1)
 
