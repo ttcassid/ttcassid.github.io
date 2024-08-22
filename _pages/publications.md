@@ -10,6 +10,10 @@ author_profile: true
 
 * Iyaniwura$^{+}$, A., Cassidy$^{+}$, T., Ribeiro, R.M., Perelson, A.S.,  A multiscale model of the action of a capsid assembly modulator for the treatment of chronic hepatitis B, _biorXiv_: 2024.07.16.603658 [link](https://www.biorxiv.org/content/10.1101/2024.07.16.603658v1)
 
+* Hamis, S., Browning, A.P., Jenner, A.L., Villa, C., Maini, P.K.,  Cassidy, T., Growth rate-driven modelling reveals how phenotypic adaptation drives drug resistance in BRAFV600E-mutant melanoma, _biorXiv_: 2024.08.14.607616, [link](https://www.biorxiv.org/content/10.1101/2024.08.14.607616v1)
+
+* Browning, A.P., Crossley, R.M., Villa, C., Maini, P.K., Jenner, A.L., Cassidy, T.,Hamis, S., Identifiability of heterogeneous phenotype adaptation from low-cell-count experiments and a stochastic model, _biorXiv_: 2024.08.19.608540, [link](https://www.biorxiv.org/content/10.1101/2024.08.19.608540v1)
+
 ---
 ### Publications
 

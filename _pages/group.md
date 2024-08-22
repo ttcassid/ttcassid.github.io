@@ -19,6 +19,10 @@ Possible PhD projects through the University of Leeds can be found here:
 
 ### Past Supervision 
 
+* Merion Flower, EPSRC Vacation Internship, University of Leeds, Target mediated dynamics of broadly neutralizing antibodies against HIV-1. Next position: MMath Student at the University of Leeds.
+
+* Harry Coldwell, School of Mathematics Undergraduate Summer Bursary, University of Leeds, Bistability in a structured epidemic model. Next position: BSc Student at the University of Leeds.
+
 * Rachel Sousa, Graduate student intern in quantitative systems pharmacology, Pfizer-Boulder Research Unit. Next position: PhD student at UC Irvine. 
 
 

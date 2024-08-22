@@ -21,3 +21,7 @@ redirect_from:
 - July-September 2024: Visiting the Theoretical Biology and Biophysics group at Los Alamos National Laboratory
 
 - September 2024: Attending MATRIX workshop on [Parameter Identifiability in Mathematical Biology](https://www.matrix-inst.org.au/events/parameter-identifiability-in-mathematical-biology/) and visiting the Queensland University of Technology. 
+
+- October 2024: Plenary presentation during Fields Institute workshop on [Mathematical Modelling of Tumour Immune Dynamics and Immunotherapies](http://www.fields.utoronto.ca/activities/24-25/oncology-tumor). 
+
+- January 2025: Attending BIRS workshop on [Mechanistic Learning as a combination of Machine Learning and Modeling in Mathematical Oncology](https://www.birs.ca/events/2025/5-day-workshops/25w5448). 

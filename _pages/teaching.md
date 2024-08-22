@@ -21,6 +21,8 @@ These statements should sound self-evident, but remain a pressing call to action
 ---
 ### Teaching at the University of Leeds
 
+- Winter 2025: MATH 2391 Nonlinear Differential Equations
+
 - Winter 2024: MATH 2391 Nonlinear Differential Equations
 
 - Winter 2023: MATH 1005 Core Mathematics (Ordinary Differential Equations submodule)
