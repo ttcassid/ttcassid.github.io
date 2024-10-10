@@ -17,7 +17,7 @@ Possible PhD projects through the University of Leeds can be found here:
 
 [Mechanistic modelling of resistance in solid tumours](https://phd.leeds.ac.uk/project/1711-mechanistic-modelling-of-treatment-resistance-in-cancer)
 
-
+* Merion Flower, MMath dissertation, University of Leeds, Target mediated dynamics of broadly neutralizing antibodies against HIV-1.  
 
 ### Past Supervision 
 
