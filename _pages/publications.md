@@ -12,12 +12,16 @@ author_profile: true
 
 * Hamis, S., Browning, A.P., Jenner, A.L., Villa, C., Maini, P.K.,  Cassidy, T., Growth rate-driven modelling reveals how phenotypic adaptation drives drug resistance in BRAFV600E-mutant melanoma, _biorXiv_: 2024.08.14.607616, [link](https://www.biorxiv.org/content/10.1101/2024.08.14.607616v1)
 
-* Browning, A.P., Crossley, R.M., Villa, C., Maini, P.K., Jenner, A.L., Cassidy, T.,Hamis, S., Identifiability of heterogeneous phenotype adaptation from low-cell-count experiments and a stochastic model, _biorXiv_: 2024.08.19.608540, [link](https://www.biorxiv.org/content/10.1101/2024.08.19.608540v1)
+* Browning, A.P., Crossley, R.M., Villa, C., Maini, P.K., Jenner, A.L., Cassidy, T., Hamis, S., Identifiability of heterogeneous phenotype adaptation from low-cell-count experiments and a stochastic model, _biorXiv_: 2024.08.19.608540, [link](https://www.biorxiv.org/content/10.1101/2024.08.19.608540v1)
+
+* Cassidy, T., Using multi-delay discrete delay differential equations to accurately simulate models with distributed delays, arXiv:2410.5921547
 
 ---
 ### Publications
 
 Some of these papers are unfortunately behind paywalls. Please contact me and I will be happy to send you the published PDF.
+
+* Braniff, N., Joshi, T.,  Cassidy, T., Trogdon, M., Kumar, R., Poels, K., Allen, R., Musante, C.J., and Shtylla, B., An integrated quantitative systems pharmacology virtual population approach for calibration with oncology efficacy endpoints, to appear, _CPT: Pharmacometrics & Systems Pharmacology_}_
 
 * Cassidy, T., Stephenson, K.E., Barouch, D.H., Perelson, A.S., Modeling resistance to the broadly neutralizing antibody PGT121 in people living with HIV-1, _PLoS Computational Biology_, 20, 3 (2024). [link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011518) 
 
