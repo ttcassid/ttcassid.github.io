@@ -14,7 +14,7 @@ author_profile: true
 
 * Browning, A.P., Crossley, R.M., Villa, C., Maini, P.K., Jenner, A.L., Cassidy, T., Hamis, S., Identifiability of heterogeneous phenotype adaptation from low-cell-count experiments and a stochastic model, _biorXiv_: 2024.08.19.608540, [link](https://www.biorxiv.org/content/10.1101/2024.08.19.608540v1)
 
-* Cassidy, T., Using multi-delay discrete delay differential equations to accurately simulate models with distributed delays, arXiv:2410.09451
+* Cassidy, T., Using multi-delay discrete delay differential equations to accurately simulate models with distributed delays, arXiv:2410.09451, [link](https://arxiv.org/abs/2410.09451)
 
 ---
 ### Publications
