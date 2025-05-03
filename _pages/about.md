@@ -16,12 +16,12 @@ redirect_from:
 ​
  I use the pronouns he/him/his.
 
+ I am an academic editor for [PLoS Computational Biology](https://journals.plos.org/ploscompbiol/)
+
 ---
 ###  Recent news
-- July-September 2024: Visiting the Theoretical Biology and Biophysics group at Los Alamos National Laboratory
+- July 2025: Organizing minisymposium on _Delayed and structured dynamics of infection and epidemic models_ with Francesca Scarabel and Tony Humphries as part of our EPSRC Small-Maths Grant
 
-- September 2024: Attending MATRIX workshop on [Parameter Identifiability in Mathematical Biology](https://www.matrix-inst.org.au/events/parameter-identifiability-in-mathematical-biology/) and visiting the Queensland University of Technology. 
+- July 2025: Attending the joint SIAM-CAIMS annual meeting
 
-- October 2024: Plenary presentation during Fields Institute workshop on [Mathematical Modelling of Tumour Immune Dynamics and Immunotherapies](http://www.fields.utoronto.ca/activities/24-25/oncology-tumor). 
-
-- January 2025: Attending BIRS workshop on [Mechanistic Learning as a combination of Machine Learning and Modeling in Mathematical Oncology](https://www.birs.ca/events/2025/5-day-workshops/25w5448). 
+- July-September 2025: Visiting the Theoretical Biology and Biophysics group at Los Alamos National Laboratory

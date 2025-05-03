@@ -8,8 +8,6 @@ author_profile: true
 
 * Villa, C., Maini, P.K., Browning, A.P., Jenner, A.L., Hamis, S.,  Cassidy, T., Reducing phenotype-structured PDE models of cancer evolution to systems of ODEs: a generalised moment dynamics approach, _arXiv_: 2406.01505, [link](https://arxiv.org/abs/2406.01505)
 
-* Iyaniwura$^{+}$, A., Cassidy$^{+}$, T., Ribeiro, R.M., Perelson, A.S.,  A multiscale model of the action of a capsid assembly modulator for the treatment of chronic hepatitis B, _biorXiv_: 2024.07.16.603658 [link](https://www.biorxiv.org/content/10.1101/2024.07.16.603658v1)
-
 * Hamis, S., Browning, A.P., Jenner, A.L., Villa, C., Maini, P.K.,  Cassidy, T., Growth rate-driven modelling reveals how phenotypic adaptation drives drug resistance in BRAFV600E-mutant melanoma, _biorXiv_: 2024.08.14.607616, [link](https://www.biorxiv.org/content/10.1101/2024.08.14.607616v1)
 
 * Browning, A.P., Crossley, R.M., Villa, C., Maini, P.K., Jenner, A.L., Cassidy, T., Hamis, S., Identifiability of heterogeneous phenotype adaptation from low-cell-count experiments and a stochastic model, _biorXiv_: 2024.08.19.608540, [link](https://www.biorxiv.org/content/10.1101/2024.08.19.608540v1)
@@ -20,6 +18,8 @@ author_profile: true
 ### Publications
 
 Some of these papers are unfortunately behind paywalls. Please contact me and I will be happy to send you the published PDF.
+
+* Iyaniwura$^{+}$, A., Cassidy$^{+}$, T., Ribeiro, R.M., Perelson, A.S.,  A multiscale model of the action of a capsid assembly modulator for the treatment of chronic hepatitis B, _PLoS Computational Biology_, 21(4): e1012322. [link](https://doi.org/10.1371/journal.pcbi.1012322)
 
 * Braniff, N., Joshi, T.,  Cassidy, T., Trogdon, M., Kumar, R., Poels, K., Allen, R., Musante, C.J., and Shtylla, B., An integrated quantitative systems pharmacology virtual population approach for calibration with oncology efficacy endpoints, to appear, _CPT: Pharmacometrics & Systems Pharmacology_}_
 
