@@ -22,7 +22,7 @@ Some of these papers are unfortunately behind paywalls. Please contact me and I 
 
 17. Iyaniwura$^{+}$, A., Cassidy$^{+}$, T., Ribeiro, R.M., Perelson, A.S.,  A multiscale model of the action of a capsid assembly modulator for the treatment of chronic hepatitis B, _PLoS Computational Biology_, 21(4): e1012322. [link](https://doi.org/10.1371/journal.pcbi.1012322)
 
-16. Braniff, N., Joshi, T.,  Cassidy, T., Trogdon, M., Kumar, R., Poels, K., Allen, R., Musante, C.J., and Shtylla, B., An integrated quantitative systems pharmacology virtual population approach for calibration with oncology efficacy endpoints, to appear, _CPT: Pharmacometrics & Systems Pharmacology_}_
+16. Braniff, N., Joshi, T.,  Cassidy, T., Trogdon, M., Kumar, R., Poels, K., Allen, R., Musante, C.J., and Shtylla, B., An integrated quantitative systems pharmacology virtual population approach for calibration with oncology efficacy endpoints, to appear, _CPT: Pharmacometrics & Systems Pharmacology_
 
 15. Cassidy, T., Stephenson, K.E., Barouch, D.H., Perelson, A.S., Modeling resistance to the broadly neutralizing antibody PGT121 in people living with HIV-1, _PLoS Computational Biology_, 20, 3 (2024). [link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011518) 
 
