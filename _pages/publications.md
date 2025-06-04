@@ -10,13 +10,15 @@ author_profile: true
 
 * Hamis, S., Browning, A.P., Jenner, A.L., Villa, C., Maini, P.K.,  Cassidy, T., Growth rate-driven modelling reveals how phenotypic adaptation drives drug resistance in BRAFV600E-mutant melanoma, _biorXiv_: 2024.08.14.607616, [link](https://www.biorxiv.org/content/10.1101/2024.08.14.607616v1)
 
-* Browning, A.P., Crossley, R.M., Villa, C., Maini, P.K., Jenner, A.L., Cassidy, T., Hamis, S., Identifiability of heterogeneous phenotype adaptation from low-cell-count experiments and a stochastic model, _biorXiv_: 2024.08.19.608540, [link](https://www.biorxiv.org/content/10.1101/2024.08.19.608540v1)
+*  Cassidy, T., Belluccini, G.,  Iyaniwura, S.A., Ribeiro, R.M., Perelson, A.S., Inheritance of intracellular viral RNA in a multiscale model of hepatitis C infection, arXiv: 2506.00939, [link](https://arxiv.org/abs/2506.00939)
 
 
 ---
 ### Publications
 
 Some of these papers are unfortunately behind paywalls. Please contact me and I will be happy to send you the published PDF.
+
+ 19. Browning, A.P., Crossley, R.M., Villa, C., Maini, P.K., Jenner, A.L., Cassidy, T., Hamis, S., Identifiability of heterogeneous phenotype adaptation from low-cell-count experiments and a stochastic model, _to appear_, _PLoS Computational Biology_ _biorXiv_: 2024.08.19.608540, [link](https://www.biorxiv.org/content/10.1101/2024.08.19.608540v1)
 
 18. Cassidy, T., Using multi-delay discrete delay differential equations to accurately simulate models with distributed delays, _to appear_, _Studies in Applied Mathematics_, arXiv:2410.09451, [link](https://arxiv.org/abs/2410.09451)
 
