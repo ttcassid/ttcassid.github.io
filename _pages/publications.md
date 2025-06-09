@@ -15,7 +15,7 @@ author_profile: true
 ### Publications
 
 Some of these papers are unfortunately behind paywalls. Please contact me and I will be happy to send you the published PDF.
- 20. Villa, C., Maini, P.K., Browning, A.P., Jenner, A.L., Hamis, S.,  Cassidy, T., Reducing phenotype-structured PDE models of cancer evolution to systems of ODEs: a generalised moment dynamics approach, _to appear_, _Journal of Mathematical Biology_;_arXiv_: 2406.01505, [link](https://arxiv.org/abs/2406.01505)
+ 20. Villa, C., Maini, P.K., Browning, A.P., Jenner, A.L., Hamis, S.,  Cassidy, T., Reducing phenotype-structured PDE models of cancer evolution to systems of ODEs: a generalised moment dynamics approach, _to appear_, _Journal of Mathematical Biology_; _arXiv_: 2406.01505, [link](https://arxiv.org/abs/2406.01505)
 
  19. Browning, A.P., Crossley, R.M., Villa, C., Maini, P.K., Jenner, A.L., Cassidy, T., Hamis, S., Identifiability of heterogeneous phenotype adaptation from low-cell-count experiments and a stochastic model, _to appear_, _PLoS Computational Biology_; _biorXiv_: 2024.08.19.608540, [link](https://www.biorxiv.org/content/10.1101/2024.08.19.608540v1)
 
