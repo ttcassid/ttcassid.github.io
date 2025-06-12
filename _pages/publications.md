@@ -19,7 +19,7 @@ Some of these papers are unfortunately behind paywalls. Please contact me and I 
 
  19. Browning, A.P., Crossley, R.M., Villa, C., Maini, P.K., Jenner, A.L., Cassidy, T., Hamis, S., Identifiability of heterogeneous phenotype adaptation from low-cell-count experiments and a stochastic model, _to appear_, _PLoS Computational Biology_; _biorXiv_: 2024.08.19.608540, [link](https://www.biorxiv.org/content/10.1101/2024.08.19.608540v1)
 
-18. Cassidy, T., Using multi-delay discrete delay differential equations to accurately simulate models with distributed delays, _to appear_, _Studies in Applied Mathematics_, arXiv:2410.09451, [link](https://arxiv.org/abs/2410.09451)
+18. Cassidy, T., Using multi-delay discrete delay differential equations to accurately simulate models with distributed delays, _to appear_, _Studies in Applied Mathematics_, [link](https://doi.org/10.1111/sapm.70069)
 
 17. Iyaniwura$^{+}$, A., Cassidy$^{+}$, T., Ribeiro, R.M., Perelson, A.S.,  A multiscale model of the action of a capsid assembly modulator for the treatment of chronic hepatitis B, _PLoS Computational Biology_, 21(4): e1012322. [link](https://doi.org/10.1371/journal.pcbi.1012322)
 
