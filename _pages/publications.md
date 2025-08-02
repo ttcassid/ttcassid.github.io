@@ -10,7 +10,7 @@ author_profile: true
 
 *  Cassidy, T., Belluccini, G.,  Iyaniwura, S.A., Ribeiro, R.M., Perelson, A.S., Inheritance of intracellular viral RNA in a multiscale model of hepatitis C infection, arXiv: 2506.00939, [link](https://arxiv.org/abs/2506.00939)
 
-*  Cassidy, T., Johnston, S.T, Plank, M., Botha, I., Flegg, J.A., Murphy,R.J., Hamis, S., A nonparametric approach to practical identifiability of nonlinear mixed effects models,  arXiv:2507.20288, [link](https://arxiv.org/abs/2507.20288)
+*  Cassidy, T., Johnston, S.T., Plank, M., Botha, I., Flegg, J.A., Murphy, R.J., Hamis, S., A nonparametric approach to practical identifiability of nonlinear mixed effects models,  arXiv:2507.20288, [link](https://arxiv.org/abs/2507.20288)
 
 *  Cassidy, T., Iyaniwura, S.A.,  Ribeiro, R.M., Perelson, A.S., Early dynamics of hepatitis B virus RNA directly inform capsid assembly modulator effectiveness
 
