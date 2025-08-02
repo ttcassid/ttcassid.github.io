@@ -10,16 +10,20 @@ author_profile: true
 
 *  Cassidy, T., Belluccini, G.,  Iyaniwura, S.A., Ribeiro, R.M., Perelson, A.S., Inheritance of intracellular viral RNA in a multiscale model of hepatitis C infection, arXiv: 2506.00939, [link](https://arxiv.org/abs/2506.00939)
 
+*  Cassidy, T., Johnston, S.T, Plank, M., Botha, I., Flegg, J.A., Murphy,R.J., Hamis, S., A nonparametric approach to practical identifiability of nonlinear mixed effects models,  arXiv:2507.20288, [link](https://arxiv.org/abs/2507.20288)
+
+*  Cassidy, T., Iyaniwura, S.A.,  Ribeiro, R.M., Perelson, A.S., Early dynamics of hepatitis B virus RNA directly inform capsid assembly modulator effectiveness
+
 
 ---
 ### Publications
 
 Some of these papers are unfortunately behind paywalls. Please contact me and I will be happy to send you the published PDF.
- 20. Villa, C., Maini, P.K., Browning, A.P., Jenner, A.L., Hamis, S.,  Cassidy, T., Reducing phenotype-structured PDE models of cancer evolution to systems of ODEs: a generalised moment dynamics approach, _to appear_, _Journal of Mathematical Biology_; _arXiv_: 2406.01505, [link](https://arxiv.org/abs/2406.01505)
+ 20. Villa, C., Maini, P.K., Browning, A.P., Jenner, A.L., Hamis, S.,  Cassidy, T., Reducing phenotype-structured PDE models of cancer evolution to systems of ODEs: a generalised moment dynamics approach, _Journal of Mathematical Biology_; 91:22, 1-32, doi: 10.1007/s00285-025-02246-5 [link](https://link.springer.com/article/10.1007/s00285-025-02246-5)
 
- 19. Browning, A.P., Crossley, R.M., Villa, C., Maini, P.K., Jenner, A.L., Cassidy, T., Hamis, S., Identifiability of heterogeneous phenotype adaptation from low-cell-count experiments and a stochastic model, _to appear_, _PLoS Computational Biology_; _biorXiv_: 2024.08.19.608540, [link](https://www.biorxiv.org/content/10.1101/2024.08.19.608540v1)
+ 19. Browning, A.P., Crossley, R.M., Villa, C., Maini, P.K., Jenner, A.L., Cassidy, T., Hamis, S., Identifiability of heterogeneous phenotype adaptation from low-cell-count experiments and a stochastic model, _PLoS Computational Biology_; 21:e1013202, doi: 10.1371/journal.pcbi.1013202 [link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013202)
 
-18. Cassidy, T., Using multi-delay discrete delay differential equations to accurately simulate models with distributed delays, _to appear_, _Studies in Applied Mathematics_, [link](https://doi.org/10.1111/sapm.70069)
+18. Cassidy, T., Using multi-delay discrete delay differential equations to accurately simulate models with distributed delays, _Studies in Applied Mathematics_, 154:e70069, [link](https://doi.org/10.1111/sapm.70069)
 
 17. Iyaniwura$^{+}$, A., Cassidy$^{+}$, T., Ribeiro, R.M., Perelson, A.S.,  A multiscale model of the action of a capsid assembly modulator for the treatment of chronic hepatitis B, _PLoS Computational Biology_, 21(4): e1012322. [link](https://doi.org/10.1371/journal.pcbi.1012322)
 
