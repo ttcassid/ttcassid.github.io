@@ -18,7 +18,7 @@ Axiom 4. Every student deserves to be treated with dignity and respect.
 These statements should sound self-evident, but remain a pressing call to action. The [Being Human In STEM cirriculum](https://www.beinghumaninstem.com/readings.html)
  has particularly impacted my thinking. 
 
- [The Piscopia Initiative](piscopia.co.uk) and the [How To Train Your Allies](https://sites.google.com/view/how-to-train-your-allies/home?authuser=0) have put together a [booklet](https://sites.google.com/view/how-to-train-your-allies/resources/what-can-you-do-booklet#h.ypyiij5gar6d) of practical action-items for mathematicians/scientists across career stages. There are a number of further resources available from both of these groups.
+ [The Piscopia Initiative](piscopia.co.uk) and the [How To Train Your Allies](https://sites.google.com/view/how-to-train-your-allies/home?authuser=0) group have put together a [booklet](https://sites.google.com/view/how-to-train-your-allies/resources/what-can-you-do-booklet#h.ypyiij5gar6d) of practical action-items for mathematicians/scientists across career stages. There are a number of further resources available from both of these groups.
 
 ---
 ### Teaching at the University of Leeds
