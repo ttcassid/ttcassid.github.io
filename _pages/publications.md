@@ -6,19 +6,21 @@ author_profile: true
 ---
 ### Preprints
 
+* Scarabel, F., Coldwell, H., Cassidy T., Genuine and spurious bistability in a simple epidemic model with waning immunity, arXiv: 2511.09196, [link](https://arxiv.org/abs/2511.09196) 
+
 * Hamis, S., Browning, A.P., Jenner, A.L., Villa, C., Maini, P.K.,  Cassidy, T., Growth rate-driven modelling reveals how phenotypic adaptation drives drug resistance in BRAFV600E-mutant melanoma, _biorXiv_: 2024.08.14.607616, [link](https://www.biorxiv.org/content/10.1101/2024.08.14.607616v1)
 
-*  Cassidy, T., Belluccini, G.,  Iyaniwura, S.A., Ribeiro, R.M., Perelson, A.S., Inheritance of intracellular viral RNA in a multiscale model of hepatitis C infection, arXiv: 2506.00939, [link](https://arxiv.org/abs/2506.00939)
-
-*  Cassidy, T., Johnston, S.T., Plank, M., Botha, I., Flegg, J.A., Murphy, R.J., Hamis, S., A nonparametric approach to practical identifiability of nonlinear mixed effects models,  arXiv:2507.20288, [link](https://arxiv.org/abs/2507.20288)
-
 *  Cassidy, T., Iyaniwura, S.A.,  Ribeiro, R.M., Perelson, A.S., Early dynamics of hepatitis B virus RNA directly inform capsid assembly modulator effectiveness
-
 
 ---
 ### Publications
 
 Some of these papers are unfortunately behind paywalls. Please contact me and I will be happy to send you the published PDF.
+
+22. Cassidy, T., Johnston, S.T., Plank, M., Botha, I., Flegg, J.A., Murphy, R.J., Hamis, S., A nonparametric approach to practical identifiability of nonlinear mixed effects models, to appear, _Bulletin of Mathematical Biology_, arXiv:2507.20288, [link](https://arxiv.org/abs/2507.20288) 
+
+21.  Cassidy, T., Belluccini, G.,  Iyaniwura, S.A., Ribeiro, R.M., Perelson, A.S., Inheritance of intracellular viral RNA in a multiscale model of hepatitis C infection, to appear, _SIAM Journal on Applied Mathematics_, arXiv: 2506.00939, [link](https://arxiv.org/abs/2506.00939)
+
  20. Villa, C., Maini, P.K., Browning, A.P., Jenner, A.L., Hamis, S.,  Cassidy, T., Reducing phenotype-structured PDE models of cancer evolution to systems of ODEs: a generalised moment dynamics approach, _Journal of Mathematical Biology_; 91:22, 1-32, doi: 10.1007/s00285-025-02246-5 [link](https://link.springer.com/article/10.1007/s00285-025-02246-5)
 
  19. Browning, A.P., Crossley, R.M., Villa, C., Maini, P.K., Jenner, A.L., Cassidy, T., Hamis, S., Identifiability of heterogeneous phenotype adaptation from low-cell-count experiments and a stochastic model, _PLoS Computational Biology_; 21:e1013202, doi: 10.1371/journal.pcbi.1013202 [link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013202)
