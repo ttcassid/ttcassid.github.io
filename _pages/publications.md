@@ -6,7 +6,7 @@ author_profile: true
 ---
 ### Preprints
 
-* Scarabel, F., Coldwell, H., Cassidy T., Genuine and spurious bistability in a simple epidemic model with waning immunity, arXiv: 2511.09196, [link](https://arxiv.org/abs/2511.09196) 
+* Scarabel, F., Coldwell*, H., Cassidy T., Genuine and spurious bistability in a simple epidemic model with waning immunity, arXiv: 2511.09196, [link](https://arxiv.org/abs/2511.09196) 
 
 * Hamis, S., Browning, A.P., Jenner, A.L., Villa, C., Maini, P.K.,  Cassidy, T., Growth rate-driven modelling reveals how phenotypic adaptation drives drug resistance in BRAFV600E-mutant melanoma, _biorXiv_: 2024.08.14.607616, [link](https://www.biorxiv.org/content/10.1101/2024.08.14.607616v1)
 
