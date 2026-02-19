@@ -6,7 +6,7 @@ author_profile: true
 ---
 ### Preprints
 
-* Scarabel, F.$^{+}$, Coldwell*, H., Cassidy T.$^{+}$, Genuine and spurious bistability in a simple epidemic model with waning immunity, arXiv: 2511.09196, [link](https://arxiv.org/abs/2511.09196) 
+* Scarabel, F.$^{+}$, Coldwell*, H., Cassidy T.$^{+}$c, Genuine and spurious bistability in a simple epidemic model with waning immunity, arXiv: 2511.09196, [link](https://arxiv.org/abs/2511.09196) 
 
 *  Cassidy, T., Iyaniwura, S.A.,  Ribeiro, R.M., Perelson, A.S., Early dynamics of hepatitis B virus RNA directly inform capsid assembly modulator effectiveness
 
@@ -15,7 +15,7 @@ author_profile: true
 
 Some of these papers are unfortunately behind paywalls. Please contact me and I will be happy to send you the published PDF.
 
-23. Hamis, S., Browning, A.P., Jenner, A.L., Villa, C., Maini, P.K.,  Cassidy, T., Growth rate-driven modelling reveals how phenotypic adaptation drives drug resistance in BRAFV600E-mutant melanoma, to appear, _Communications Biology,  _biorXiv_: 2024.08.14.607616, [link](https://www.biorxiv.org/content/10.1101/2024.08.14.607616v1)
+23. Hamis, S., Browning, A.P., Jenner, A.L., Villa, C., Maini, P.K.,  Cassidy, T., Growth rate-driven modelling reveals how phenotypic adaptation drives drug resistance in BRAFV600E-mutant melanoma, to appear, _Communications Biology_,  _biorXiv_: 2024.08.14.607616, [link](https://www.biorxiv.org/content/10.1101/2024.08.14.607616v1)
 
 22. Cassidy, T., Johnston, S.T., Plank, M., Botha, I., Flegg, J.A., Murphy, R.J., Hamis, S., A nonparametric approach to practical identifiability of nonlinear mixed effects models,  _Bulletin of Mathematical Biology_, 88, 19 (2026). [link](https://link.springer.com/article/10.1007/s11538-025-01583-2) 
 
