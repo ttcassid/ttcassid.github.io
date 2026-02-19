@@ -8,8 +8,6 @@ author_profile: true
 
 * Scarabel, F., Coldwell*, H., Cassidy T., Genuine and spurious bistability in a simple epidemic model with waning immunity, arXiv: 2511.09196, [link](https://arxiv.org/abs/2511.09196) 
 
-* Hamis, S., Browning, A.P., Jenner, A.L., Villa, C., Maini, P.K.,  Cassidy, T., Growth rate-driven modelling reveals how phenotypic adaptation drives drug resistance in BRAFV600E-mutant melanoma, _biorXiv_: 2024.08.14.607616, [link](https://www.biorxiv.org/content/10.1101/2024.08.14.607616v1)
-
 *  Cassidy, T., Iyaniwura, S.A.,  Ribeiro, R.M., Perelson, A.S., Early dynamics of hepatitis B virus RNA directly inform capsid assembly modulator effectiveness
 
 ---
@@ -17,7 +15,9 @@ author_profile: true
 
 Some of these papers are unfortunately behind paywalls. Please contact me and I will be happy to send you the published PDF.
 
-22. Cassidy, T., Johnston, S.T., Plank, M., Botha, I., Flegg, J.A., Murphy, R.J., Hamis, S., A nonparametric approach to practical identifiability of nonlinear mixed effects models, to appear, _Bulletin of Mathematical Biology_, arXiv:2507.20288, [link](https://arxiv.org/abs/2507.20288) 
+23. Hamis, S., Browning, A.P., Jenner, A.L., Villa, C., Maini, P.K.,  Cassidy, T., Growth rate-driven modelling reveals how phenotypic adaptation drives drug resistance in BRAFV600E-mutant melanoma, to appear, _Communications Biology,  _biorXiv_: 2024.08.14.607616, [link](https://www.biorxiv.org/content/10.1101/2024.08.14.607616v1)
+
+22. Cassidy, T., Johnston, S.T., Plank, M., Botha, I., Flegg, J.A., Murphy, R.J., Hamis, S., A nonparametric approach to practical identifiability of nonlinear mixed effects models,  _Bulletin of Mathematical Biology_, 88, 19 (2026). [link](https://link.springer.com/article/10.1007/s11538-025-01583-2) 
 
 21.  Cassidy, T., Belluccini, G.,  Iyaniwura, S.A., Ribeiro, R.M., Perelson, A.S., Inheritance of intracellular viral RNA in a multiscale model of hepatitis C infection, to appear, _SIAM Journal on Applied Mathematics_, arXiv: 2506.00939, [link](https://arxiv.org/abs/2506.00939)
 

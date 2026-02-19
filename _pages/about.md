@@ -18,7 +18,8 @@ redirect_from:
 ​
  I use the pronouns he/him/his.
 
- I am an academic editor for [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/)
+ I am an academic editor for [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/) and the [Bulletin of Mathematical Biology](https://link.springer.com/journal/11538)
+
 
 ---
 ###  Recent news
