@@ -23,8 +23,8 @@ redirect_from:
 
 ---
 ###  Recent news
-- July 2025: Organizing minisymposium on _Delayed and structured dynamics of infection and epidemic models_ with Francesca Scarabel and Tony Humphries as part of our EPSRC Small-Maths Grant
+- June 2026: Organizing the workshop [Mathematical Modeling & Dynamics with Delay](https://mast.queensu.ca/~mmdd26/) in honour of the 60th birthday of Tony Humphries.
 
-- July 2025: Attending the joint SIAM-CAIMS annual meeting
+- July 2026: Attending the joint SMB-ECTMB conference 
 
-- July-September 2025: Visiting the Theoretical Biology and Biophysics group at Los Alamos National Laboratory
+- August-September 2026: Visiting the Theoretical Biology and Biophysics group at Los Alamos National Laboratory

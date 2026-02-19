@@ -6,7 +6,7 @@ author_profile: true
 ---
 ### Preprints
 
-* Scarabel, F., Coldwell*, H., Cassidy T., Genuine and spurious bistability in a simple epidemic model with waning immunity, arXiv: 2511.09196, [link](https://arxiv.org/abs/2511.09196) 
+* Scarabel, F.$^{+}$, Coldwell*, H., Cassidy T.$^{+}$, Genuine and spurious bistability in a simple epidemic model with waning immunity, arXiv: 2511.09196, [link](https://arxiv.org/abs/2511.09196) 
 
 *  Cassidy, T., Iyaniwura, S.A.,  Ribeiro, R.M., Perelson, A.S., Early dynamics of hepatitis B virus RNA directly inform capsid assembly modulator effectiveness
 
