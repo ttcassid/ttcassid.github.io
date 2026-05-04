@@ -21,7 +21,7 @@ Some of these papers are unfortunately behind paywalls. Please contact me and I 
 
 22. Cassidy, T., Johnston, S.T., Plank, M., Botha, I., Flegg, J.A., Murphy, R.J., Hamis, S., A nonparametric approach to practical identifiability of nonlinear mixed effects models,  _Bulletin of Mathematical Biology_, 88, 19 (2026). [link](https://link.springer.com/article/10.1007/s11538-025-01583-2) 
 
-21.  Cassidy, T., Belluccini, G.,  Iyaniwura, S.A., Ribeiro, R.M., Perelson, A.S., Inheritance of intracellular viral RNA in a multiscale model of hepatitis C infection, to appear, _SIAM Journal on Applied Mathematics_, 2026 86:3, 791-813 10.1137/25M1765821 [link]( https://epubs.siam.org/eprint/38NVQCS7PWUZMZYKXAIX/full)
+21.  Cassidy, T., Belluccini, G.,  Iyaniwura, S.A., Ribeiro, R.M., Perelson, A.S., Inheritance of intracellular viral RNA in a multiscale model of hepatitis C infection, to appear, _SIAM Journal on Applied Mathematics_, 2026 86:3, 791-813, DOI: 10.1137/25M1765821 [link]( https://epubs.siam.org/eprint/38NVQCS7PWUZMZYKXAIX/full)
 
  20. Villa, C., Maini, P.K., Browning, A.P., Jenner, A.L., Hamis, S.,  Cassidy, T., Reducing phenotype-structured PDE models of cancer evolution to systems of ODEs: a generalised moment dynamics approach, _Journal of Mathematical Biology_; 91:22, 1-32, doi: 10.1007/s00285-025-02246-5 [link](https://link.springer.com/article/10.1007/s00285-025-02246-5)
 
