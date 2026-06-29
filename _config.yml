@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tyler Cassidy"
 title_separator          : "-"
 name                     : &name "Tyler Cassidy"
-description              : &description "Lecturer in mathematical biology"
+description              : &description "Assistant professor"
 url                      : https://ttcassid.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ttcassid.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Tyler Cassidy"
   avatar           : "Cassidy_Profile.jpg"
-  bio              : "Mathematical biologist"
-  location         : "Leeds, UK"
-  employer         : "University of Leeds"
+  bio              : "Quantitative scientist"
+  location         : "Vancouver, Canada"
+  employer         : "University of British Columbia"
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Cassidy+Tyler"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=ENb-oyUAAAAJ"
-  email            : "t.cassidy1@leeds.ac.uk"
+  email            : "tyler.cassidy@ubc.ca"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "@TCass20"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
